@@ -35,3 +35,4 @@ UPSTASH_REDIS_REST_TOKEN=<your_upstash_redis_rest_token>
 
 NODE_ENV=development
 ```
+# tise-notes-app
